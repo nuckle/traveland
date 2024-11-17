@@ -1,5 +1,9 @@
 # Traveland
 
-[Live demo (gitlab)](https://w973.gitlab.io/traveland)
+![preview](img/preview.png)
 
-[Live demo (github)](https://nuckle.github.io/traveland)
+## Live demo
+
+- [GitLab](https://w973.gitlab.io/traveland)
+
+- [GitHub](https://nuckle.github.io/traveland)
